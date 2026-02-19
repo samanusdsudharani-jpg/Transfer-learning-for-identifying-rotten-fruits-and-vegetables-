@@ -1,0 +1,13 @@
+Static
+> assets 
+> forms
+> uploads 
+templates 
+</> blog-single.html
+</> blog.html
+</> index.html
+</> portfolio- details.html
+app.py
+healthy_vs_rotten.h5
+ipython.html
+Readme.txt
